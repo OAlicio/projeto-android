@@ -50,6 +50,7 @@ header {
     min-height: 150px;
     text-align: center;
     padding-top: 45px;
+    margin-bottom: -20px;
 }
 
 header > h1 {
